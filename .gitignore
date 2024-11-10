@@ -142,4 +142,7 @@ dist
 .svelte-kit
 
 
-Assignment8/images/*
+
+Assignment8/images/*.png
+Assignment8/images/*.jpeg
+Assignment8/images/*.gif
